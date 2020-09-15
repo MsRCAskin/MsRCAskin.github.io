@@ -37,17 +37,17 @@
         <div class="top-bar">
           <div class="top-bar-left">
             <ul class="menu">
-              <li class="menu-text">Yeti Agency</li>
-              <li><a href="#">One</a></li>
-              <li><a href="#">Two</a></li>
+              <li class="menu-text">MS. RION C. ASKIN</li>
+              <li><a href="#">RÉSUMÉ</a></li>
+              <li><a href="#">TRANSCRIPT</a></li>
             </ul>
           </div>
           <div class="top-bar-right">
             <ul class="menu">
-              <li><a href="#">Three</a></li>
-              <li><a href="#">Four</a></li>
-              <li><a href="#">Five</a></li>
-              <li><a href="#">Six</a></li>
+              <li><a href="#">PHONE NUMBER</a></li>
+              <li><a href="#">EMAIL</a></li>
+              <li><a href="#">TWITTER</a></li>
+              <li><a href="#">SNAP CHAT</a></li>
             </ul>
           </div>
         </div>
@@ -55,8 +55,8 @@
 
         <div class="callout large">
           <div class="row column text-center">
-            <h1>Changing the World Through Design</h1>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris.</p>
+            <h1>"If they do not offer you a seat the table, bring a folding chair."</h1>
+            <p class="lead">SHIRLEY CHISHOLM</p>
             <a href="#" class="button large">Learn More</a>
             <a href="#" class="button large hollow">Learn Less</a>
           </div>
@@ -75,15 +75,15 @@
 
         <div class="grid-x grid-margin-x">
           <div class="medium-4 cell">
-            <h3>Photoshop</h3>
+            <h3>MISSION STATEMENT</h3>
             <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
           </div>
           <div class="medium-4 cell">
-            <h3>Javascript</h3>
+            <h3>OBJECTIVE STATEMENT</h3>
             <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
           </div>
           <div class="medium-4 cell">
-            <h3>Marketing</h3>
+            <h3>SWOT ANALYSIS</h3>
             <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
           </div>
         </div>
@@ -150,10 +150,10 @@
     <article class="grid-container">
         <div class="row column">
           <ul class="menu">
-            <li><a href="#">One</a></li>
-            <li><a href="#">Two</a></li>
-            <li><a href="#">Three</a></li>
-            <li><a href="#">Four</a></li>
+            <li><a href="#">RÉSUMÉ</a></li>
+            <li><a href="#">TRANSCRIPT</a></li>
+            <li><a href="#">PHONE NUMBER</a></li>
+            <li><a href="#">EMAIL</a></li>
           </ul>
         </div>
     </article>
