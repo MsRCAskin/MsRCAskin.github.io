@@ -66,7 +66,7 @@
         <div class="grid-x grid-margin-x">
           <div class="medium-6 cell small-order-2 medium-order-1">
             <h2>What happens to a dream deferred?</h2>
-            <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis.</p>
+            <p> </p>
           </div>
           <div class="medium-6 cell small-order-1 medium-order-2">
             <img class="thumbnail" src="https://placehold.it/750x350">
@@ -76,15 +76,15 @@
         <div class="grid-x grid-margin-x">
           <div class="medium-4 cell">
             <h3>MISSION STATEMENT</h3>
-            <p> </p>
+            <p>...</p>
           </div>
           <div class="medium-4 cell">
             <h3>OBJECTIVE STATEMENT</h3>
-            <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
+            <p>...</p>
           </div>
           <div class="medium-4 cell">
             <h3>SWOT ANALYSIS</h3>
-            <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
+            <p>...</p>
           </div>
         </div>
 
@@ -92,11 +92,9 @@
 
         <div class="row column">
           <ul class="vertical medium-horizontal menu expanded text-center">
-            <li><a href="#"><div class="stat">28</div><span>Websites</span></a></li>
-            <li><a href="#"><div class="stat">43</div><span>Apps</span></a></li>
-            <li><a href="#"><div class="stat">95</div><span>Ads</span></a></li>
-            <li><a href="#"><div class="stat">59</div><span>Cakes</span></a></li>
-            <li><a href="#"><div class="stat">18</div><span>Logos</span></a></li>
+            <li><a href="#"><div class="stat">1</div><span>MINOR</span></a></li>
+            <li><a href="#"><div class="stat">2</div><span>MAJORS</span></a></li>
+            <li><a href="#"><div class="stat">3</div><span>YEARS</span></a></li>
           </ul>
         </div>
 
