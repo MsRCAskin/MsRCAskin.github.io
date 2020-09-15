@@ -58,15 +58,14 @@
             <h1>"If they do not offer you a seat the table, bring a folding chair."</h1>
             <p class="lead">SHIRLEY CHISHOLM</p>
             <a href="#" class="button large">BUSINESS MANAGEMENT</a>
-            <a href="#" class="button large hollow">ISDS</a>
+            <a href="#" class="button large hollow">INFORMATION SYSTEMS</a>
           </div>
         </div>
 
     <article class="grid-container">
         <div class="grid-x grid-margin-x">
-          <div class="medium-6 cell small-order-2 medium-order-1">
+          <div class="medium-6 cell">
             <h2>What happens to a dream deferred?</h2>
-            <p> </p>
           </div>
           <div class="medium-6 cell small-order-1 medium-order-2">
             <img class="thumbnail" src="https://placehold.it/750x350">
