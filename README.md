@@ -76,7 +76,7 @@
         <div class="grid-x grid-margin-x">
           <div class="medium-4 cell">
             <h3>MISSION STATEMENT</h3>
-            <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
+            <p> </p>
           </div>
           <div class="medium-4 cell">
             <h3>OBJECTIVE STATEMENT</h3>
