@@ -57,16 +57,16 @@
           <div class="row column text-center">
             <h1>"If they do not offer you a seat the table, bring a folding chair."</h1>
             <p class="lead">SHIRLEY CHISHOLM</p>
-            <a href="#" class="button large">Learn More</a>
-            <a href="#" class="button large hollow">Learn Less</a>
+            <a href="#" class="button large">BUSINESS MANAGEMENT</a>
+            <a href="#" class="button large hollow">ISDS</a>
           </div>
         </div>
 
     <article class="grid-container">
         <div class="grid-x grid-margin-x">
           <div class="medium-6 cell small-order-2 medium-order-1">
-            <h2>Our Agency, our selves.</h2>
-            <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna diam porttitor mauris, quis sollicitudin sapien justo in libero. Vestibulum mollis mauris enim. Morbi euismod magna ac lorem rutrum elementum. Donec viverra auctor.</p>
+            <h2>What happens to a dream deferred?</h2>
+            <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis.</p>
           </div>
           <div class="medium-6 cell small-order-1 medium-order-2">
             <img class="thumbnail" src="https://placehold.it/750x350">
