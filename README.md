@@ -68,7 +68,7 @@
             <h2>What happens to a dream deferred?</h2>
           </div>
           <div class="medium-6 cell small-order-1 medium-order-2">
-            <img class="thumbnail" src="https://placehold.it/750x350">
+            <img class="thumbnail" src="https://i.redd.it/8n7a67m2q6i41.jpg">
           </div>
         </div>
 
